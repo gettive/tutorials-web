@@ -85,10 +85,7 @@ Si used ve una pestaña similar a esta. Ya a ingreso con éxito!
 ![](img/organitec-screenshoots-cpanel-email-creation-11.jpg)
 
 Espero le haya resultado de utilidad este manual.
-Si tiene alguna dudo u consulta no dude en escribirnos a web@creativepark.com.py.
-
-Si tiene unos minutos nos gustaría finalizar con una formulario de puntuación y reseña, para poder mejorar en el futuro, brindándole un mejor servicio. Le agradecemos cordialmente por su tiempo.
-
+Si tiene alguna duda u consulta no dude en escribírnos a web@creativepark.com.py.
 
 ![](img/creativepark-logotype_small.png)
 Jan Park
