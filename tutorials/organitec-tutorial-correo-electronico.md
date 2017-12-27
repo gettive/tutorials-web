@@ -89,4 +89,4 @@ Si tiene alguna duda u consulta no dude en escribírnos a web@creativepark.com.p
 
 ---
 Jan Park
-[Desarrollador web e Investigador de tecnología]
+<br>Desarrollador web e Investigador de tecnología en <a href="https://creativepark.com.py" target="_blank">CreativePark S.A.</a>
