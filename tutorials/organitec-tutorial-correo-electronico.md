@@ -87,6 +87,6 @@ Si used ve una pestaña similar a esta. Ya a ingreso con éxito!
 Espero le haya resultado de utilidad este manual.
 Si tiene alguna duda u consulta no dude en escribírnos a web@creativepark.com.py.
 
-![](img/creativepark-logotype_small.png)
+---
 Jan Park
 [Desarrollador web e Investigador de tecnología]
