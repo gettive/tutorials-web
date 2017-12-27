@@ -1,4 +1,4 @@
-# Organitec S.A. - Tutorial de creación de Cuentas de Correo
+# Tutorial de Cuentas de Correo
 
 Primeramente vaya a su navegador preferido, en este ejemplo utilizaremos Google Chrome, pero puede usar el que tenga a disposición.
 
